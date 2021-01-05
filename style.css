@@ -70,3 +70,6 @@ footer p{
     font-size: 12px;
     color:blueviolet;
 }
+.experiences-area div{
+    overflow: hidden;
+}
