@@ -30,7 +30,7 @@ p{
 }
 section{
     height: 500px;
-    padding-bottom: 150;
+    clear: both;
 }
 .link-button{
     text-decoration-color: none;
